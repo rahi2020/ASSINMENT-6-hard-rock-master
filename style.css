@@ -18,10 +18,6 @@ body{
     padding: 9px 20px;
 }
 
-.btn-privious{
-    background: rgba(255, 255, 255, 0.2);
-    color: #ffffff;
-}
 .navbar-toggler {
     border: none;
 }
@@ -38,4 +34,3 @@ body{
     background: rgba(255, 255, 255, 0.2);
     border-radius: 15px;
 }
-
